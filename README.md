@@ -3,6 +3,8 @@
 This is a common tablet sold in Brazil, since the support for the devices stopped a few years back (2018) I figure that I could do some hacking on it.
 This repository is a way that I can share my findings with others interested in hacking their own devices.
 
+[Booting](./docs/Development/Boot.md)
+
 ## Exploring the hardware and software
 
 The goal here is to document the findings of this hardware and how can we flash a new software on it.
